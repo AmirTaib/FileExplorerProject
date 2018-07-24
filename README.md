@@ -1,10 +1,12 @@
 ## FileExplorerProject.
 
+#### The database is in the bak file.
+
 #### The code for building the DB:
 
 ```SQL
 
-USE FileExplorer
+CREATE DATABASE [FileExplorer]
 GO
 
 SET ANSI_NULLS ON
@@ -24,7 +26,6 @@ CREATE TABLE [dbo].[Search Details](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-
 
 USE FileExplorer
 GO
