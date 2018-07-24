@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FileExplorerModelStoreContainer" CdmEntityContainer="FileExplorerEntities">
+    <EntitySetMapping Name="Search_Details">
+      <EntityTypeMapping TypeName="FileExplorerModel.Search_Detail">
+        <MappingFragment StoreEntitySet="Search Details">
+          <ScalarProperty Name="SearchDetailsID" ColumnName="SearchDetailsID" />
+          <ScalarProperty Name="KeyWord" ColumnName="KeyWord" />
+          <ScalarProperty Name="DirectoryPath" ColumnName="DirectoryPath" />
+          <ScalarProperty Name="SearchTime" ColumnName="SearchTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Search_Results">
+      <EntityTypeMapping TypeName="FileExplorerModel.Search_Result">
+        <MappingFragment StoreEntitySet="Search Result">
+          <ScalarProperty Name="SearchResultID" ColumnName="SearchResultID" />
+          <ScalarProperty Name="FullPath" ColumnName="FullPath" />
+          <ScalarProperty Name="SearchDetailsID" ColumnName="SearchDetailsID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

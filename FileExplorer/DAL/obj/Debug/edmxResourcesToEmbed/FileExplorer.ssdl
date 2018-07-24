@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FileExplorerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Search Details">
+    <Key>
+      <PropertyRef Name="SearchDetailsID" />
+    </Key>
+    <Property Name="SearchDetailsID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KeyWord" Type="nvarchar" MaxLength="50" />
+    <Property Name="DirectoryPath" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="SearchTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Search Result">
+    <Key>
+      <PropertyRef Name="SearchResultID" />
+    </Key>
+    <Property Name="SearchResultID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FullPath" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="SearchDetailsID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Search Result_Search Details">
+    <End Role="Search Details" Type="Self.Search Details" Multiplicity="1" />
+    <End Role="Search Result" Type="Self.Search Result" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Search Details">
+        <PropertyRef Name="SearchDetailsID" />
+      </Principal>
+      <Dependent Role="Search Result">
+        <PropertyRef Name="SearchDetailsID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FileExplorerModelStoreContainer">
+    <EntitySet Name="Search Details" EntityType="Self.Search Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Search Result" EntityType="Self.Search Result" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Search Result_Search Details" Association="Self.FK_Search Result_Search Details">
+      <End Role="Search Details" EntitySet="Search Details" />
+      <End Role="Search Result" EntitySet="Search Result" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
