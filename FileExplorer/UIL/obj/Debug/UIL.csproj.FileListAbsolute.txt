@@ -1,0 +1,40 @@
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\UIL.exe.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\UIL.exe
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\UIL.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\BLL.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\BOL.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\EntityFramework.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\BLL.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\BLL.dll.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\BOL.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\BOL.dll.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\EntityFramework.xml
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\obj\Debug\UIL.csprojResolveAssemblyReference.cache
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\obj\Debug\UIL.exe
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\obj\Debug\UIL.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\ClassLibrary2.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\ClassLibrary2.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\FileExplorer\UIL\bin\Debug\ClassLibrary2.dll.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\UIL.exe.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\UIL.exe
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\UIL.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\BLL.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\BOL.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\EntityFramework.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\ClassLibrary2.dll
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\BLL.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\BLL.dll.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\BOL.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\BOL.dll.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\EntityFramework.xml
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\ClassLibrary2.pdb
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\bin\Debug\ClassLibrary2.dll.config
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\obj\Debug\UIL.csprojResolveAssemblyReference.cache
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\obj\Debug\UIL.exe
+C:\Users\אמיר\Desktop\JB\Homework\PROJECTS\File Explorer Project - C# & SQL\FileExplorer\UIL\obj\Debug\UIL.pdb
